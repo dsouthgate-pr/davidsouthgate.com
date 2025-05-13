@@ -1,0 +1,239 @@
+body { 
+	margin: 0; 
+	padding: 0; 
+	color: #000; 
+	background-color: #fff; 
+	font-family: Trebuchet MS, verdana, geneva, sans-serif; 
+	}
+
+a	{
+	text-decoration:	none;
+	font-weight:	bold;
+	}
+
+a:link	{
+	color:	#9b8578;
+	background-color: transparent;
+	}
+
+a:visited	{
+	color:	#9b8578;
+	background-color: transparent;
+	}
+
+a:active	{
+	color:	#fff;
+	background-color: transparent;
+	}
+
+a:hover	{
+	color:	#000;
+	background-color: transparent;
+	text-decoration: overline underline;
+	}
+
+p 	{ 
+	font: 13px/1.8em Trebuchet MS, verdana, geneva, sans-serif; 
+	margin-top: 0;
+	margin-bottom: .5em;
+	}
+
+p+p	{ /* for css-2 browsers */
+	margin-top:	-.5em;
+	text-indent: 5%; }
+
+h1	{ font-size: 24px; }	
+h2	{ font-size: 22px; }
+h3	{ font-size: 20px; }
+h4	{ font-size: 18px; }
+h5	{ font-size: 16px; }
+h6	{ font-size: 14px; }
+
+h1, h2, h3, h4, h5, h6	{
+	font-family: Trebuchet MS, impact, geneva, verdana, helvetica, sans-serif;
+	font-weight: bold;
+	color: #9b8578;
+	background-color: transparent;
+	margin: 0; 
+	padding: 0;
+	}
+
+UL {
+	margin-top: 0;
+	padding-top: 0;
+	}
+
+LI, DL, DT {
+	font: 13px/1.8em Trebuchet MS, verdana, geneva, sans-serif;
+	margin-top: 0;
+	padding-top: 0;
+	}
+
+.graphic01 {
+	background-image: url(../images/pencils.jpg);
+	padding: 0;
+	border: 0;
+	margin: 0;
+	}
+
+.graphic02 {
+	background-image: url(../images/keyboard.jpg);
+	padding: 0;
+	border: 0;
+	margin: 0;
+	}
+
+.graphic03 {
+	background-image: url(../images/pencil.jpg);
+	padding: 0;
+	border: 0;
+	margin: 0;
+	}
+
+.graphic04 {
+	background-image: url(../images/muse.jpg);
+	padding: 0;
+	border: 0;
+	margin: 0;
+	}
+
+.graphic05 {
+	background-image: url(../images/literate.jpg);
+	padding: 0;
+	border: 0;
+	margin: 0;
+	}
+
+.graphic06 {
+	background-image: url(../images/feedback.jpg);
+	padding: 0;
+	border: 0;
+	margin: 0;
+	}
+
+.graphic07 {
+	background-image: url(../images/letters.jpg);
+	padding: 0;
+	border: 0;
+	margin: 0;
+	}
+
+.art01 {
+	background-image: url(../images/collage01.jpg);
+	padding: 0;
+	border: 0;
+	margin: 0;
+	}
+
+.inleft { font: 11px/1.5em Trebuchet MS, verdana, geneva, sans-serif;
+	color: #000; 
+	background-color: transparent;
+	margin-top: 12px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	}
+
+.inleft2 { font: 12px/2.0em Trebuchet MS, verdana, geneva, sans-serif;
+	color: #000; 
+	background-color: transparent;
+	margin-top: 12px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	}
+
+.inleft3 { font: 12px/2.0em Trebuchet MS, verdana, geneva, sans-serif;
+	color: #000; 
+	background-color: transparent;
+	margin-top: 18px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	}
+
+.inmain { font: 12px/2.0em Trebuchet MS, verdana, geneva, sans-serif;
+	color: #000; 
+	background-color: transparent;
+	margin-top: 10px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	}
+
+.lefty {
+	color: #000;
+	background-color: #d2dfcb;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+	margin: 0;
+	}
+
+.main {
+	color: #000;
+	background-color: #ece3d7;
+	padding-top: 25px;
+	padding-right: 35px;
+	padding-bottom: 35px;
+	padding-left: 35px;
+	margin: 0;
+	}
+
+.inset {
+	font: 10px/1.8 verdana, geneva, arial, sans-serif;
+	color: #9b8578;
+	background-color: #d2dfcb;
+	padding-top: 6px;
+	padding-right: 6px;
+	padding-bottom: 6px;
+	padding-left: 6px;
+	border-top: dotted 1px #9b8578;
+	border-right: dotted 1px #9b8578;
+	border-bottom: dotted 1px #9b8578;
+	border-left: dotted 1px #9b8578;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+}
+
+.linkz {font: 10px/1.5em Trebuchet MS, verdana, geneva, sans-serif;
+	margin-top: 40px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	}
+
+.lowright01 {
+	background-image: url(../images/lowcolloage.jpg);
+	padding: 0;
+	border: 0;
+	margin: 0;
+	}
+
+.fineprint {
+	font: 9px verdana, geneva, arial, sans-serif;
+	color: #666;
+	background-color: transparent;
+	padding-top: 10px;
+	border-top: dotted 1px #b5bfaf;
+	margin-top: 10px;
+	margin-right: 50px;
+	margin-bottom: 20px;
+	margin-left: 50px;
+	}
+	.fineprint a:link {color: #b5bfaf; background-color: transparent;}
+	.fineprint a:visited {color: #b5bfaf; background-color: transparent;}
+	.fineprint a:active {color: #b5bfaf; background-color: transparent;}
+	.fineprint a:hover {color: #b5bfaf; background-color: transparent;}
+
+.submenu { display: none; 
+	margin-bottom: 12px;
+	margin-left: 12px; }
+
+.mhead { border: 0px;
+    display: block;
+    font-size: 120%;
+	margin-top: 8px; }
